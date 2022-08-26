@@ -6,4 +6,5 @@ export const projectInfo = {
     spokenLanguage: 'English',
     duration: '1 month',
     sizeOfTeam: '4 people',
+    roles: ["Developer", "UI/UX designer", "Front End Developer", "BackEnd", "Devops", "Senior Product Manager"],
 }
